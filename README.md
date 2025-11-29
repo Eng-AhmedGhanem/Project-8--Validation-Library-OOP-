@@ -1,4 +1,4 @@
-## 📌 Project 11: Input & Validation Library (OOP)
+## 📌 Project 8: Input & Validation Library (OOP)
 🔹 Overview
 
 This project was implemented as part of Course 11 – OOP As It Should Be (Application) in the Programming Advices Track [www.programmingadvices.com
@@ -27,7 +27,7 @@ These methods are designed to validate inputs and enforce constraints such as ch
 
 ## 📂 Project Structure
 
-📁 Project-11-Input-Validation-Library-OOP
+📁 Project-8-Input-Validation-Library-OOP
 
 - clsInputValidate.h → Contains the class and all validation methods
 
